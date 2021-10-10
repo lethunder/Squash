@@ -254,8 +254,6 @@ GEM
       actionpack (>= 4.0)
       activesupport (>= 4.0)
       sprockets (>= 3.0.0)
-    sql_origin (1.1.2)
-      rails (>= 4.0)
     squash_ios_symbolicator (1.1.1)
       plist
       serialbox
@@ -340,7 +338,6 @@ DEPENDENCIES
   slugalicious
   sourcemap
   sprockets
-  sql_origin
   squash_ios_symbolicator
   squash_java
   squash_javascript
@@ -354,4 +351,4 @@ DEPENDENCIES
   yard
 
 BUNDLED WITH
-   1.17.3
+   2.0.0
