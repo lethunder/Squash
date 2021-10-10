@@ -17,4 +17,4 @@ group :development do
   gem 'redcarpet', require: nil, platform: :mri
 end
 
-#gem 'sql_origin', groups: [:development, :test]
+gem 'sql_origin', groups: [:development, :test]
