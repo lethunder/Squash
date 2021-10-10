@@ -1,12 +1,12 @@
 ---
-from: squash@YOUR_DOMAIN
-domain: YOUR_DOMAIN
-strategy: sendmail
+from: didier.banlock@gmail.com
+domain: safe-match-squash.herokuapp.com
+strategy: smtp
 smtp_settings:
-  address:
-  port:
-  domain:
-  user_name:
-  password:
-  authentication:
-  enable_starttls_auto:
+  address: google.com
+  port: '25'
+  domain: safe-match-squash.herokuapp.com
+  user_name: didier.banlock@gmail.com
+  password: "@WIlson.1+"
+  authentication: plain
+  enable_starttls_auto: false

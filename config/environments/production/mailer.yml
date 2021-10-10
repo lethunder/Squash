@@ -1,4 +1,4 @@
 ---
 default_url_options:
-  host: YOUR_HOSTNAME
+  host: https://safe-match-squash.herokuapp.com/
   protocol: https
